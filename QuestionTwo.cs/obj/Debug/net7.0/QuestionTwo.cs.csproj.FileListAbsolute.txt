@@ -1,0 +1,15 @@
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\bin\Debug\net7.0\QuestionTwo.cs.exe
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\bin\Debug\net7.0\QuestionTwo.cs.deps.json
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\bin\Debug\net7.0\QuestionTwo.cs.runtimeconfig.json
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\bin\Debug\net7.0\QuestionTwo.cs.dll
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\bin\Debug\net7.0\QuestionTwo.cs.pdb
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\QuestionTwo.cs.csproj.AssemblyReference.cache
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\QuestionTwo.cs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\QuestionTwo.cs.AssemblyInfoInputs.cache
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\QuestionTwo.cs.AssemblyInfo.cs
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\QuestionTwo.cs.csproj.CoreCompileInputs.cache
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\QuestionTwo.cs.dll
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\refint\QuestionTwo.cs.dll
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\QuestionTwo.cs.pdb
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\QuestionTwo.cs.genruntimeconfig.cache
+c:\Users\Gurkirat Singh\Desktop\HitplayInterview\QuestionTwo.cs\obj\Debug\net7.0\ref\QuestionTwo.cs.dll
